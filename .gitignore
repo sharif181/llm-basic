@@ -1,0 +1,5 @@
+__pycache__
+env
+faiss_db
+api_key.py
+data
